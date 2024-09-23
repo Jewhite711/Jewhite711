@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Jewhite711
 - 👀 I’m interested in anything that challenges me
 - 🌱 I’m currently learning Data Analytics and Coding 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m loving html, CSS and JavaScript
+
   
 - 😄 Pronouns: she/her
 - ⚡ Fun Facts: I use to ride dirtbikes and raise exotic birds 
